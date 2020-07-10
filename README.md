@@ -28,7 +28,7 @@ Myself
 
 ## Test
 node index.js
-
+![](Assets/RunTest.png)
 ## Questions 
 Github profile : https://github.com/nakwonyoon
 
